@@ -1,0 +1,51 @@
+ticket_id,text,category,priority
+1,"I cannot log into my account. It keeps saying my password is wrong even though I'm sure it's correct.",login_issue,high
+2,"The app crashes every time I try to upload a photo. Please fix this bug urgently.",bug,high
+3,"How do I reset my password? I've tried the reset link but didn't receive any email.",account,medium
+4,"Your service is amazing! I love the new features you added last month.",feedback,low
+5,"I was charged twice for my subscription. I need a refund immediately.",billing,high
+6,"Can you help me understand how to use the dashboard? I'm new to this platform.",feature_request,low
+7,"The page is loading very slowly. It takes more than 30 seconds to load.",performance,medium
+8,"I want to delete my account permanently. Please guide me through the process.",account,medium
+9,"The search function is not working. When I type anything it shows no results.",bug,high
+10,"Could you add a dark mode option? Many users have requested this feature.",feature_request,low
+11,"My payment was declined but money was deducted from my bank account.",billing,high
+12,"I need help setting up two-factor authentication on my account.",security,medium
+13,"The email notifications are not being sent to my inbox. Please check.",notification,medium
+14,"Your customer support is terrible. I've been waiting for 3 days for a response.",complaint,high
+15,"I love the new update! The interface looks much cleaner now.",feedback,low
+16,"The mobile app keeps logging me out automatically. Very frustrating.",bug,medium
+17,"Can I export my data to Excel? I need it for my records.",feature_request,medium
+18,"I forgot my username and cannot access my account at all.",login_issue,high
+19,"The API documentation is outdated. Please update it with the latest changes.",documentation,low
+20,"My subscription expired but I was still charged. This is unacceptable.",billing,high
+21,"How do I change my email address associated with my account?",account,low
+22,"The website is down. I cannot access any of my data.",outage,high
+23,"I received a suspicious email claiming to be from your company. Is it legitimate?",security,high
+24,"Can you add support for multiple languages?",feature_request,low
+25,"The export feature is not working. It shows an error every time.",bug,medium
+26,"I need a detailed invoice for my last payment for tax purposes.",billing,medium
+27,"Your platform helped me increase my productivity significantly. Thank you!",feedback,low
+28,"The filter options are not saving my preferences. Please fix.",bug,medium
+29,"I want to upgrade to the premium plan. How do I do that?",billing,low
+30,"The chat widget is not responding. I need urgent assistance.",support,high
+31,"Can I get a list of all users who have access to my project?",security,medium
+32,"The calendar integration is not syncing properly with Google Calendar.",integration,medium
+33,"I accidentally deleted important data. Is there any way to recover it?",data_recovery,high
+34,"Your pricing is too high compared to competitors. Can you offer a discount?",billing,low
+35,"The onboarding tutorial was very helpful. Great job!",feedback,low
+36,"I cannot find the settings page. Where is it located?",navigation,low
+37,"The report generation is taking too long. Sometimes it times out.",performance,medium
+38,"I need to transfer ownership of my project to another team member.",account,medium
+39,"The mobile app is consuming too much battery. Please optimize it.",performance,medium
+40,"Your terms of service have been updated. What changed?",legal,low
+41,"I cannot connect my social media accounts. The OAuth keeps failing.",integration,medium
+42,"The free trial has ended but I want to continue using the service.",billing,medium
+43,"I found a security vulnerability in your login page. Please check immediately.",security,high
+44,"Can you add a bulk import feature for contacts?",feature_request,medium
+45,"The notification bell icon is not showing unread counts.",bug,low
+46,"I need to change my billing cycle from monthly to yearly.",billing,low
+47,"Your knowledge base articles are very informative and well-written.",feedback,low
+48,"The video player is not working on Safari browser.",bug,medium
+49,"How do I set up automated backups for my data?",feature_request,medium
+50,"I accidentally shared a private document publicly. How do I revoke access?",security,high
